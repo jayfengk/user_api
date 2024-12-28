@@ -1,7 +1,7 @@
 # user_api
 user data api
 
-Methods
+Methods example
 POST: localhost:8080/user
 {
     "userName": "Jay",
