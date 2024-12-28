@@ -1,4 +1,4 @@
-# user_api
+# User_API
 user data api
 
 Methods example
